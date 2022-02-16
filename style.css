@@ -1,0 +1,49 @@
+/* 
+Typography and colors
+*/
+
+body {
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    color: #1F2937;
+}
+
+ul, 
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+/* 
+Section
+*/
+
+.hero,
+footer {
+    background-color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    padding: 3rem;
+}
+
+.small-quote {
+    font-size: 18px;
+}
+
+.hero img {
+    width: 40%;
+}
